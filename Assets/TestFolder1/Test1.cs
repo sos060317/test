@@ -7,5 +7,10 @@ public class Test1 : MonoBehaviour
     void Start()
     {
         Debug.Log("test1입니다.");       
+        Debug.Log("test1입니다.");       
+        Debug.Log("test1입니다.");       
+        Debug.Log("test1입니다.");       
+        Debug.Log("test1입니다.");       
+        Debug.Log("test1입니다.");       
     }
 }
